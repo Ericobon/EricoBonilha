@@ -1,12 +1,11 @@
 # Hey! Welcome to my profile! 👋
 
-🚀 I’m currently working at Claro Brasil | 💻 Passionate about Data science | ✨ Learning is continuous and there will always be a next level! | ₿ enthusiast of the "Crypto World".
+🚀 I’m currently working at Claro Brasil | 💻 Passionate about Data science | ₿ enthusiast of the "Crypto World"
 
 <div align="center">
   <a href="https://github.com/ericobon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericobon&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericobon&layout=compact&langs_count=7&theme=dark"/>
-</div>
+  </div>
 <div style="display: inline_block"><br>
     <img align="center" alt="erico-sql" height="30" width="40" src="https://i.ibb.co/HFMD3Zb/servidor-sql.png">
  <img align="center" alt="erico-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
